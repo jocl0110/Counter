@@ -1,0 +1,27 @@
+html{
+    background-color: ghostwhite;
+    text-align: center;
+}
+main{
+    width: 100vw;
+    height: 100vh;
+}
+h1{
+    font-size: 9vw;
+    margin: 3rem;
+}
+#value{
+    margin: 0 0 4rem 0;
+    font-size: 7vw
+}
+.btn-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    border-radius: 10px;
+    background-color: tomato;
+    font-size: 2vw;
+    margin: 2rem 3rem;
+}
